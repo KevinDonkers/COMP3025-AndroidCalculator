@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
                 _numberDisplay.setText("");
             }
         });
-
+ 
         this._decimalPoint.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
